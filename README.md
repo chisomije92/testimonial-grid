@@ -52,7 +52,7 @@ I was able to fully grasp in-depth the concept of CSS Grid and Flexbox. This tas
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/chisomije92)
-- Twitter - [@yourusername](https://www.twitter.com/@devManiac92)
+- Frontend Mentor - [@@chisomije92e](https://www.frontendmentor.io/profile/chisomije92)
+- Twitter - [@devManiac92](https://twitter.com/devManiac92)
 
 
